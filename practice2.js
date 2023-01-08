@@ -24,3 +24,6 @@ react = () =>{
 vuejs = () =>{
     location.replace("https://vuejs.org/");
 }
+php = () =>{
+  location.replace("https://www.php.net/");
+}
