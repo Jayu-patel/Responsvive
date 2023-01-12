@@ -322,7 +322,7 @@ body{
 }
 @media screen and (orientation: landscape) and (width < 500px){
     .big-box{
-        height: 100vh;
+        height: 150vh;
     }
     .big-box .intro-box .nav .logo,
     .big-box .intro-box .nav .navbar{
@@ -331,7 +331,7 @@ body{
 }
 @media screen and (orientation: landscape) and (height < 500px){
     .big-box{
-        height: 100vh;
+        height: 150vh;
     }
     .big-box .intro-box .nav .logo,
     .big-box .intro-box .nav .navbar{
